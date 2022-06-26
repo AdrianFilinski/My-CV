@@ -4,9 +4,11 @@
 
 body {
     width: 1120px;
+    background-color: rgb(238, 234, 234);
 }
 
 img {
+    border-radius: 15%;
     width: 150px;
     height: 170px;
 }
